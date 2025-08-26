@@ -1,4 +1,4 @@
-# UCU - Práctica 3: Webscarping
+# UCU - Práctica 3: Webscraping
 
 Webscraping - Proyecto para la Licenciatura en Datos y Negocios
 
